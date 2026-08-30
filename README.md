@@ -159,16 +159,16 @@ arthur@dev:~$ _
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1B&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&ring_color=00F0FF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1B&title_color=00F0FF&text_color=c9d1d9&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthursousa-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1B&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&ring_color=00F0FF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursousa-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1B&title_color=00F0FF&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0F0F1B&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthursousa-dev&theme=tokyonight&hide_border=true&background=0F0F1B&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&bg_color=0F0F1B&color=00F0FF&line=FF00E5&point=39FF14" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthursousa-dev&theme=react-dark&hide_border=true&bg_color=0F0F1B&color=00F0FF&line=FF00E5&point=39FF14" width="100%"/>
 
 </div>
 
@@ -178,7 +178,7 @@ arthur@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arthursousa-dev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -189,9 +189,9 @@ arthur@dev:~$ _
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthursousa-dev/arthursousa-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthursousa-dev/arthursousa-dev/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution animation" src="https://raw.githubusercontent.com/arthursousa-dev/arthursousa-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
 <sub>🐍 Gerado automaticamente via GitHub Actions — <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
@@ -204,19 +204,19 @@ arthur@dev:~$ _
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/arthursousa-dev" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/SEU_USUARIO" target="_blank">
+<a href="https://github.com/arthursousa-dev" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-0F0F1B?style=for-the-badge&logo=github&logoColor=00F0FF"/>
 </a>
-<a href="mailto:seuemail@dominio.com" target="_blank">
+<a href="mailto:arthursousa.contatop@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://wa.me/55SEUNUMERO" target="_blank">
+<a href="https://wa.me/5567992928122" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+<a href="https://www.instagram.com/arthursousa-dev" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -230,7 +230,7 @@ arthur@dev:~$ _
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00F0FF&labelColor=0F0F1B&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=arthursousa-dev&style=for-the-badge&color=00F0FF&labelColor=0F0F1B&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
