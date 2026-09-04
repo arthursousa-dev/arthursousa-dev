@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=650&lines=Inicializando+sistema...;Carregando+m%C3%B3dulos+de+Full+Stack...;PHP+%2F+MySQL+%2F+JavaScript+%2F+React;Compilando+projetos+acad%C3%AAmicos+e+freelas...;Bem-vindo+ao+meu+mainframe.+%3E_" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=760&lines=Inicializando+sistema...;Carregando+m%C3%B3dulos+de+Full+Stack...;PHP+%2F+MySQL+%2F+JavaScript+%2F+React;Compilando+projetos+acad%C3%AAmicos+e+freelas...;Bem-vindo+ao+meu+mainframe.+%3E_" alt="Typing SVG"/>
 
 <br/><br/>
 
