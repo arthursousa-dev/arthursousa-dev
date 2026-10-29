@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1B,50:1B2735,100:00F0FF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=ARTHUR.EXE%20%E2%80%94%20Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img alt="Banner: Arthur — Full Stack & AI Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1B,50:1B2735,100:00F0FF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=ARTHUR.EXE%20%E2%80%94%20Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -8,19 +8,19 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0F0F1B&logo=statuspage&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/LOCATION-BRASIL-FF00E5?style=for-the-badge&labelColor=0F0F1B&logo=googlemaps&logoColor=FF00E5"/>
-<img src="https://img.shields.io/badge/ROLE-DEVELOPER-39FF14?style=for-the-badge&labelColor=0F0F1B&logo=codeforces&logoColor=39FF14"/>
+<img alt="Status: online" src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0F0F1B&logo=statuspage&logoColor=00F0FF"/>
+<img alt="Localização: Brasil" src="https://img.shields.io/badge/LOCATION-BRASIL-FF00E5?style=for-the-badge&labelColor=0F0F1B&logo=googlemaps&logoColor=FF00E5"/>
+<img alt="Função: desenvolvedor" src="https://img.shields.io/badge/ROLE-DEVELOPER-39FF14?style=for-the-badge&labelColor=0F0F1B&logo=codeforces&logoColor=39FF14"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img alt="" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## `> whoami` — Sobre Mim
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
+<img alt="" align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
 
 ```yaml
 identidade:
@@ -47,19 +47,19 @@ modo_atual: "[ compilando conhecimento :: deploy contínuo ]"
 
 ### Linguagens & Core
 
-<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql&theme=dark" />
+<img alt="Python, PHP, JavaScript, HTML, CSS, MySQL" src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql&theme=dark" />
 
 ### Frameworks & Bibliotecas
 
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
+<img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
 
 ### Ferramentas & Ambiente
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
+<img alt="Git, GitHub, VS Code, Figma, Linux" src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
 
 ### Banco de Dados & Infra
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,xampp&theme=dark" />
+<img alt="PostgreSQL, MySQL, XAMPP" src="https://skillicons.dev/icons?i=postgres,mysql,xampp&theme=dark" />
 
 ### IA & Automação
 
@@ -182,16 +182,16 @@ arthur@dev:~$ _
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthursousa-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1B&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&ring_color=00F0FF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursousa-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1B&title_color=00F0FF&text_color=c9d1d9&langs_count=8"/>
+<img alt="Estatísticas do GitHub" height="165em" src="https://github-readme-stats.vercel.app/api?username=arthursousa-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1B&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&ring_color=00F0FF"/>
+<img alt="Linguagens mais usadas" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursousa-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1B&title_color=00F0FF&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthursousa-dev&theme=tokyonight&hide_border=true&background=0F0F1B&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF"/>
+<img alt="Sequência de contribuições" src="https://github-readme-streak-stats.herokuapp.com/?user=arthursousa-dev&theme=tokyonight&hide_border=true&background=0F0F1B&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthursousa-dev&theme=react-dark&hide_border=true&bg_color=0F0F1B&color=00F0FF&line=FF00E5&point=39FF14" width="100%"/>
+<img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=arthursousa-dev&theme=react-dark&hide_border=true&bg_color=0F0F1B&color=00F0FF&line=FF00E5&point=39FF14" width="100%"/>
 
 </div>
 
@@ -201,7 +201,7 @@ arthur@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arthursousa-dev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=arthursousa-dev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -228,19 +228,19 @@ arthur@dev:~$ _
 <div align="center">
 
 <a href="https://www.linkedin.com/in/arthur-sousa-ads" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/arthursousa-dev" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0F0F1B?style=for-the-badge&logo=github&logoColor=00F0FF"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0F0F1B?style=for-the-badge&logo=github&logoColor=00F0FF"/>
 </a>
 <a href="mailto:arthursousa.contatop@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img alt="E-mail" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://wa.me/5567992928122" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/arthurs.dev" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -249,11 +249,11 @@ arthur@dev:~$ _
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img alt="" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=arthursousa-dev&style=for-the-badge&color=00F0FF&labelColor=0F0F1B&label=PROFILE+VIEWS"/>
+<img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=arthursousa-dev&style=for-the-badge&color=00F0FF&labelColor=0F0F1B&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
@@ -263,6 +263,6 @@ arthur@dev:~$ _
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:1B2735,100:0F0F1B&height=120&section=footer"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:1B2735,100:0F0F1B&height=120&section=footer"/>
 
 </div>
