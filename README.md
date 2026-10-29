@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1B,50:1B2735,100:00F0FF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=ARTHUR.EXE%20%E2%80%94%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1B,50:1B2735,100:00F0FF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=ARTHUR.EXE%20%E2%80%94%20Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=760&lines=Inicializando+sistema...;Carregando+m%C3%B3dulos+de+Full+Stack...;PHP+%2F+MySQL+%2F+JavaScript+%2F+React;Compilando+projetos+acad%C3%AAmicos+e+freelas...;Bem-vindo+ao+meu+mainframe.+%3E_" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=760&lines=Inicializando+sistema...;Carregando+m%C3%B3dulos+de+IA+Generativa...;Python+%2F+PHP+%2F+PostgreSQL+%2F+LLMs;Construindo+com+RAG%2C+agentes+e+APIs+de+IA...;Bem-vindo+ao+meu+mainframe.+%3E_" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -26,7 +26,7 @@
 identidade:
   nome: "Arthur"
   formação: "Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)"
-  foco: ["Software Engineering", "Databases", "Redes", "Quality Assurance"]
+  foco: ["IA Generativa (LLMs, RAG)", "Software Engineering", "Databases", "Quality Assurance"]
   atuação: "Desenvolvimento web freelance"
 
 filosofia:
@@ -59,7 +59,16 @@ modo_atual: "[ compilando conhecimento :: deploy contínuo ]"
 
 ### Banco de Dados & Infra
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,xampp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,xampp&theme=dark" />
+
+### IA & Automação
+
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -67,7 +76,9 @@ modo_atual: "[ compilando conhecimento :: deploy contínuo ]"
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -86,46 +97,58 @@ modo_atual: "[ compilando conhecimento :: deploy contínuo ]"
 
 <table>
 <tr>
-<td width="50%">
+<td colspan="2">
 
-### 🦷 DENT IA
-**Sistema de gestão para clínicas odontológicas**
+### 🤖 [Chatbot RAG para clínicas](https://github.com/arthursousa-dev/chatbot-rag)
+**Respostas com IA a partir dos documentos da clínica, citando a fonte**
 
-Plataforma completa em PHP com login por perfil, prontuário odontológico com odontograma SVG (FDI), banco JSON com escrita segura e identidade visual própria (navy `#0B2845` + teal `#00C9A7`). Construído como portfólio e potencial produto SaaS.
+Recupera os trechos mais relevantes dos documentos (TF-IDF + similaridade de cosseno) e gera a resposta com a API da Claude, restrita ao contexto recuperado. Perguntas fora do escopo não são inventadas. Interface em Streamlit e testes automatizados da recuperação.
 
-`PHP` `JSON DB` `Bootstrap Icons` `UI/UX`
-
-</td>
-<td width="50%">
-
-### 📦 StockPro
-**Gestão de estoque com UI dark luxury**
-
-Sistema de controle de inventário com uma interface escura e premium, focado em experiência visual sofisticada aliada a controle operacional real.
-
-`PHP` `Dark UI` `Inventory Management`
+`Python` `RAG` `Claude API` `scikit-learn` `Streamlit` `pytest`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🐾 PetShop Manager
-**Gestão para petshops com dashboard analítico**
+### 🦷 [DENT IA](https://github.com/arthursousa-dev/projeto-dent-ia)
+**Sistema de gestão para clínicas odontológicas**
 
-Sistema com três perfis de acesso, armazenamento em JSON e dashboard de analytics construído com Chart.js para visualização de dados em tempo real.
+Plataforma completa em PHP com quatro perfis de acesso, prontuário odontológico com odontograma SVG (FDI), PostgreSQL com prepared statements e identidade visual própria (navy `#0B2845` + teal `#00C9A7`). Construído como portfólio e potencial produto SaaS.
 
-`PHP` `Chart.js` `Multi-role Auth`
+`PHP` `PostgreSQL` `SVG` `Security`
 
 </td>
 <td width="50%">
 
-### 🍕 Forno do Bairro
+### 📦 [StockPro](https://github.com/arthursousa-dev/stock-pro)
+**Gestão de estoque com UI dark luxury**
+
+Sistema de controle de inventário com uma interface escura e premium, focado em experiência visual sofisticada aliada a controle operacional real.
+
+`PHP` `PostgreSQL` `Dark UI` `Inventory Management`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐾 [PetShop Manager](https://github.com/arthursousa-dev/petshop-manager)
+**Gestão para petshops com dashboard analítico**
+
+Sistema com três perfis de acesso, PostgreSQL e dashboard de analytics construído com Chart.js para visualização de dados em tempo real.
+
+`PHP` `PostgreSQL` `Chart.js` `Multi-role Auth`
+
+</td>
+<td width="50%">
+
+### 🍕 [Forno do Bairro](https://github.com/arthursousa-dev/forno-de-bairro)
 **Plataforma full-stack para pizzaria**
 
-Aplicação PHP/MySQL com proteção CSRF, hashing bcrypt, CRUD de produtos e painel administrativo — projeto acadêmico com foco em segurança de aplicações web.
+Delivery com catálogo, carrinho, checkout transacional e painel administrativo. PHP + PostgreSQL com proteção CSRF, hashing bcrypt e testes do fluxo de checkout.
 
-`PHP` `MySQL` `Security` `Admin Panel`
+`PHP` `PostgreSQL` `Security` `PHPUnit`
 
 </td>
 </tr>
@@ -144,11 +167,11 @@ Aplicação PHP/MySQL com proteção CSRF, hashing bcrypt, CRUD de produtos e pa
 ```bash
 arthur@dev:~$ cat objetivos_atuais.log
 
-[■■■■■■■■□□] 80%  Aprofundar Software Engineering & QA (curso ADS)
+[■■■■■□□□□□] 50%  Construir aplicações com LLMs: RAG, agentes e avaliação
+[■■■□□□□□□□] 30%  Migrar o chatbot RAG para embeddings com pgvector
 [■■■■■■□□□□] 60%  Evoluir DENT IA rumo a produto SaaS
-[■■■■■□□□□□] 50%  Consolidar fundamentos de Redes & Infraestrutura
-[■■■□□□□□□□] 30%  Expandir atuação em freelas (Upwork / Workana / 99Freelas)
-[■■□□□□□□□□] 20%  Explorar automações com IA (n8n, agentes, APIs)
+[■■■■■■■■□□] 80%  Aprofundar Software Engineering & QA (curso ADS)
+[■■■□□□□□□□] 30%  Automações com IA (n8n, agentes, APIs)
 
 arthur@dev:~$ _
 ```
