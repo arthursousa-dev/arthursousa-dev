@@ -47,15 +47,15 @@ modo_atual: "[ compilando conhecimento :: deploy contínuo ]"
 
 ### Linguagens & Core
 
-<img src="https://skillicons.dev/icons?i=php,js,html,css,python,mysql,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql&theme=dark" />
 
 ### Frameworks & Bibliotecas
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,laravel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
 
 ### Ferramentas & Ambiente
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
 
 ### Banco de Dados & Infra
 
